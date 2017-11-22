@@ -1,7 +1,7 @@
 {
   "name": "spotionst-nodejs",
   "version": "1.0.0",
-  "description": "Spotinst Functions NodeJS sample for serverless framework service.",
+  "description": "Spotinst Functions NodeJS sample for serverless framework service. Its a slack bot",
   "main": "handler.js",
   "keywords": [
     "serverless",
